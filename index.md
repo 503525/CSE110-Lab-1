@@ -43,7 +43,7 @@ I'm an undergraduate student currently in my final year of the Mathematics / Com
 
 ## Other Stuff
 
-[Check out my other stuff!](otherStuff.md)
+[Check out my other stuff!](./otherStuff.md)
 
 ## Personal Goals (FA23 - SP25):
 
